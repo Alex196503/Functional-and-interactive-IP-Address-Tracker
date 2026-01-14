@@ -8,6 +8,7 @@ CSS states,
 CSS variables,
 CSS flexbox,
 Raw JS,
+Object destructuring
 Two APIs.
 References: https://geo.ipify.org/docs, https://leafletjs.com/reference.html.
 Author: Moldovan Alex
